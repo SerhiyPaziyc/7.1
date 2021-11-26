@@ -1,0 +1,14 @@
+﻿'laba 7.1.1.exe' (Win32): Loaded 'C:\Users\LENOVO\source\repos\laba 7.1.1\Debug\laba 7.1.1.exe'. Symbols loaded.
+'laba 7.1.1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'laba 7.1.1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'laba 7.1.1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'laba 7.1.1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'laba 7.1.1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'laba 7.1.1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x4428 has exited with code 0 (0x0).
+'laba 7.1.1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'laba 7.1.1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'laba 7.1.1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0xfbc has exited with code 0 (0x0).
+The thread 0x6140 has exited with code 0 (0x0).
+The program '[11632] laba 7.1.1.exe' has exited with code 0 (0x0).
